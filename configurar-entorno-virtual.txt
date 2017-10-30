@@ -1,0 +1,18 @@
+
+Cómo configurar entorno virtual
+===============================
+
+Instalar PyPi (python package index)
+
+pip install paquete
+
+pip -r archivo.txt
+
+pip install virtualenv
+
+virtualenv venv
+
+source venv/bin/activate
+
+deactivate
+
